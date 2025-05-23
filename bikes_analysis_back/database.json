@@ -1,0 +1,27 @@
+{
+    "predictions": [
+        {
+            "request_id": "fff122e7-c073-487e-874a-5731998e98e9",
+            "prediction": 552.189208984375,
+            "season": 1.0,
+            "yr": 1,
+            "mnth": 3.0,
+            "hr": 15.0,
+            "weekday": 5.0,
+            "weathersit": 1.0,
+            "temp": 18.0,
+            "hum": 30.0,
+            "windspeed": 3.0,
+            "holiday": false,
+            "workingday": false,
+            "timestamp": "2025-05-23T17:49:00Z"
+        }
+    ],
+    "actuals": [
+        {
+            "request_id": "fff122e7-c073-487e-874a-5731998e98e9",
+            "actual_rentals": 510.0,
+            "timestamp": "2025-05-23T17:49:00Z"
+        }
+    ]
+}
